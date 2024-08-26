@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CalcXML"
+rootProject.name = "CalcJPCT"
 include(":app")
  
